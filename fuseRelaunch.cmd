@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/.Xilinx/HW7Compe475LP/HW7LPTest_isim_beh.exe" -prj "C:/.Xilinx/HW7Compe475LP/HW7LPTest_beh.prj" "work.HW7LPTest" "work.glbl" 
